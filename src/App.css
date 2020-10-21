@@ -1,0 +1,4 @@
+.max-h-50px {
+    max-height: 50px;
+    overflow: hidden;
+}
